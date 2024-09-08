@@ -2,3 +2,4 @@ centos
 registry
 mysql:5.7
 redis
+portainer/portainer-ce:2.13.0-alpine
