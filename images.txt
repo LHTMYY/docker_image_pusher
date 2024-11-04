@@ -4,3 +4,4 @@ mysql:5.7
 tomcat
 docker.io/bitnami/apache:2.4.62-debian-12-r12
 apache
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.4
